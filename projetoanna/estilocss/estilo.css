@@ -1,0 +1,44 @@
+body {
+    background-image: url('/projetoanna/img/fundo.png');
+    background-color: #ebd6d6;
+}
+
+.home, .biografia, .campanhas, .contato {
+    color: rgba(17, 15, 15, 0.753);
+    text-decoration: none;
+    padding: 3px;
+}
+
+.estiliza-menu {
+    display: flex;
+    border: 1px solid rgb(177, 5, 57);
+    justify-content: center;
+    font-family: sans-serif;
+    padding: 15px;
+    font-size: 15; 
+    background: #eeeaeaab;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #868383
+}
+
+.centro {
+    position: relative;
+    width: 900px;
+    text-align: center;
+    justify-content: center;
+}
+
+.paragrafo1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.foto2, .foto3 {
+    border: 10px solid #88727271;
+    border-radius: 5px;
+}
+
